@@ -1,0 +1,84 @@
+#header{
+	font-family: Monotype Corsiva;
+color: #c32017;
+word-spacing: 33px;
+}
+
+#data{
+
+	color: #3323F5
+
+}
+#personal{
+	color: rgb(255, 255, 255)
+}
+#ho{
+	color: rgb(255, 255, 255)
+}
+#hobby{
+	color: #3323F5
+}
+#data{
+font-family: Verdana;
+
+}
+#col{
+	color: rgb(255, 255, 255);
+}
+
+a:link{
+	color: #111111;
+}
+
+a:visited{
+
+	color: #FAA21A;
+}
+
+a:hover{
+	color: #800000;
+}
+a:active{
+	color: #008000;
+}
+#Apes{
+
+	 font-family:Bernard MT Condensed;
+	 color: #c32017;
+}
+#properties{
+
+	font-family: Forte;
+	color: #3323F5;
+	font-size: 22px;
+
+}
+#frank{
+
+	font-family: Kunstler Script;
+	color: #c32017;
+	font-size: 55px;
+}#frankpro{
+ 
+     font-family: Ravie;
+     color: #ffa500 
+}
+#aliens{
+	font-family: Goudy Stout;
+	color: #c32017;
+	font-size: 44px;
+}
+#aliens1{
+	font-family:Elephant;
+	color: rgb(255, 255, 255);
+
+}
+#aliens12{
+	font-family: Lucida Calligraphy;
+	color:rgb(146, 63, 0);
+     font-size: 18px;
+     
+}
+#home{
+	font-family: Lucida Console;
+}
